@@ -9,7 +9,7 @@ public class VimTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VimTestApplication.class, args);
 
-		String name = "CTRLLER";
+		String name = "merge 1";
 	}
 
 }
